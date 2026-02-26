@@ -3,21 +3,21 @@
 ---
 
 ## 👩‍💻 About Me
-I am a proactive Research Analyst with a strong interest in data analysis and research. I use analytics and machine learning techniques to identify trends and generate actionable insights. I am passionate about utilizing data to inform strategic decision-making and enhance business outcomes. I am seeking a challenging role that allows me to learn, grow professionally, and contribute to innovative projects.
+I am a data professional with a strong interest in analytics, research, and data-driven problem solving. I work with data analysis and machine learning techniques to uncover patterns, generate actionable insights, and support informed decision-making. I am passionate about transforming data into meaningful business value and continuously improving my technical and analytical skills. I am open to opportunities that encourage learning, collaboration, and contribution to impactful and innovative projects.
 
 ---
 
 ## 🔭 Current Status
-- 🎓 Data Science student  
-- 🌱 Learning Machine Learning, AI, Python, SQL, and Power BI  
+- 🎓 Data Science Professional
+- 🌱 Proficient in Machine Learning, AI, Python, SQL, and Power BI  
 - 👯 Looking to collaborate on data analysis and machine learning projects  
-- 🤔 Seeking help with improving models and gaining real-world project experience  
+- 🤔 Seeking opportunities to improve models and gain real-world project experience  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaibhavipatil707/)
 
 ---
 
 ## 📌 Summary
-Data enthusiast with strong knowledge of data cleaning, analysis, and processing. Skilled in building Machine Learning, Deep Learning, and NLP models using Python. Experienced with Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn. Familiar with data research, trend analysis, and deriving meaningful insights. Knowledge of Business Intelligence concepts and Power BI for creating dashboards and reports. Good understanding of SQL for database creation, management, and queries.
+Experience with Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn. Familiar with data research, trend analysis, and deriving meaningful insights. Knowledge of Business Intelligence concepts and Power BI for creating dashboards and reports. In-depth understanding of SQL for database creation, management, and queries.
 
 ---
 
@@ -39,4 +39,4 @@ Data enthusiast with strong knowledge of data cleaning, analysis, and processing
 - Statistics, Regression Analysis  
 
 ### Soft Skills
-- Written and verbal communication, Teamwork and collaborative problem-solving 
+- Written and verbal communication, Teamwork, and collaborative problem-solving 
